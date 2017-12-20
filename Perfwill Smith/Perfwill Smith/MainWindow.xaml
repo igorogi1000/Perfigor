@@ -1,0 +1,15 @@
+﻿<Window x:Name="window" x:Class="Perfwill_Smith.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Perfilho" Height="350" Width="525">
+    <Grid Background="#FFD0FFE8">
+        <Button x:Name="btnNovoJogo" Content="IV YU FILL REDY, PRESSE HIR" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" Height="31" Click="btnNovoJogo_Click"/>
+        <TextBox x:Name="txtPalpite" HorizontalAlignment="Left" Height="23" Margin="10,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="309" IsEnabled="False"/>
+        <Button x:Name="btnPalpitar" Content="Chute o nome" HorizontalAlignment="Left" VerticalAlignment="Top" Width="172" Margin="335,57,0,0" Height="23" IsEnabled="False" Click="btnPalpitar_Click"/>
+        <TextBlock x:Name="txtBoxDicas" HorizontalAlignment="Left" Margin="10,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="215" Width="309" IsEnabled="False" Background="White"/>
+        <Button x:Name="btnDica" Content="DONTU NOU? PRESSE HIRE" HorizontalAlignment="Left" Margin="335,103,0,0" VerticalAlignment="Top" Width="172" Height="36" IsEnabled="False"/>
+        <Button x:Name="btnConfig" Content="Configuraciones" HorizontalAlignment="Left" Margin="335,289,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.36,0.35"/>
+        <Image x:Name="imgShit" HorizontalAlignment="Left" Height="101" Margin="335,144,0,0" VerticalAlignment="Top" Width="172"/>
+        <Label Content="10" HorizontalAlignment="Left" Margin="398,250,0,0" VerticalAlignment="Top" Width="37" BorderThickness="0" FontSize="22" FontWeight="Bold" Foreground="#FF42CD68"/>
+    </Grid>
+</Window>

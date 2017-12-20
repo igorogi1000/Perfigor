@@ -1,0 +1,13 @@
+D:\higor\Perfwill Smith\Perfwill Smith\bin\Debug\Perfwill Smith.exe.config
+D:\higor\Perfwill Smith\Perfwill Smith\bin\Debug\Perfwill Smith.exe
+D:\higor\Perfwill Smith\Perfwill Smith\bin\Debug\Perfwill Smith.pdb
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith.csprojResolveAssemblyReference.cache
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\MainWindow.baml
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\MainWindow.g.cs
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\App.g.cs
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith_MarkupCompile.cache
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith.g.resources
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill_Smith.Properties.Resources.resources
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith.csproj.GenerateResource.Cache
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith.exe
+D:\higor\Perfwill Smith\Perfwill Smith\obj\Debug\Perfwill Smith.pdb
